@@ -74,8 +74,8 @@
 
 ---
 
-## 📊 GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=autimaruti2004&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+## 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=autimaruti2004&theme=tokyonight" />
 
 ---
 
