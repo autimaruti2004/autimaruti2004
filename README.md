@@ -12,11 +12,6 @@
 
 ---
 
-## 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=autimaruti2004&theme=tokyonight" />
-
----
-
 ## 🛠️ Technical Skills  
 
 ### 💻 Frontend Development  
@@ -77,6 +72,11 @@
 - Basics of SQL – Simply learn
 - Python Programming – Udemy  
 - Java Programming – Udemy  
+
+---
+
+## 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=autimaruti2004&theme=tokyonight" />
 
 ---
 
