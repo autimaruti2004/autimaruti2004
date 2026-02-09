@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Maruti Auti
 
-<!--
-**autimaruti2004/autimaruti2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+- Software Developer
+- Interested in Frontend | Full Stack Development | end-to-end Developement
+- Love building real-world projects
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- HTML, CSS, JavaScript, python
+- React, Node.js, Django
+- MongoDB, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- SmartSheti
+- Point of Sale(POS) System
+- Portfolio Website
+
+## 📫 Connect with Me
+- LinkedIn: www.linkedin.com/in/maruti-auti-458b83234
+- Portfolio: https://maruti-auti.vercel.app/
+- Email: autimaruti2004@gmail.com
