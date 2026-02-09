@@ -8,7 +8,12 @@
 - Motivated **Software Developer** with a strong foundation in **Frontend & Full Stack Development**  
 - Experienced in building **end-to-end web applications** using modern technologies  
 - Passionate about **problem-solving, clean code, and continuous learning**  
-- Enjoy working on **real-world projects** that solve practical problems  
+- Enjoy working on **real-world projects** that solve practical problems
+
+---
+
+## 🔥 GitHub Streak
+<img src="https://streak-stats.demolab.com?user=autimaruti2004&theme=tokyonight" />
 
 ---
 
@@ -68,14 +73,10 @@
 ---
 
 ## 📜 Certifications  
-- Web Development with React / Angular – Seven Mentor Pvt. Ltd.  
+- Web Development with React / Angular – Seven Mentor Pvt. Ltd.
+- Basics of SQL – Simply learn
 - Python Programming – Udemy  
 - Java Programming – Udemy  
-
----
-
-## 🔥 GitHub Streak
-<img src="https://streak-stats.demolab.com?user=autimaruti2004&theme=tokyonight" />
 
 ---
 
